@@ -7,5 +7,5 @@ In this repo I have provided several notebooks for building connectivity matrice
 3) dti_tractography_cobre.ipynb - building structural connectivity matrices based on desikan killiany atlas using structural regions extracted from FreeSurfer and dti data. DTI data was preproceed using my script run_preproc_dti.sh or you can use this repo (BrainGB: https://braingb.us/preprocessing/)
 4) run_preproc_dti.sh - preproccesing DTI
    steps: bet ->  remove non-brain tissue parts of the image
-    if you want to add eddy-correction uncomment first line in the script
+    if you want to add eddy-correction uncomment this line in the script
 
